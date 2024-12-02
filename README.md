@@ -8,3 +8,8 @@ https://adventofcode.com/2024
 The solutions in this repository are written in the following programming languages:
 
 - DataWeave
+
+## Running the Code
+- Clone the repository
+- Open the repository in VSCode with DataWeave extension installed.
+- Navigate to the src/test/dw, select the .dwl and preview the file to run the code.
